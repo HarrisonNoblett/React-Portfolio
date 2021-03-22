@@ -5,9 +5,11 @@ import Footer from "../components/Footer";
 
 function Home() {
     return (
-        <div className="container">
+        <div>
             <Header />
-            <Card />
+                <div className="container">
+                    <Card />
+                </div>
             <Footer />
         </div>
     )
