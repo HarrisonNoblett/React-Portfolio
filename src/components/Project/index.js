@@ -48,6 +48,15 @@ function Project() {
                 <h4><p>This project brings in a hard-coded Budget for the user to add purchases or payments and it will take from the pre-made budget. This application also works offline for any offline purchases or budget changes. Here is the  <a href="https://github.com/HarrisonNoblett/Budget-Tracker" class="text-white">Github Repository</a> and the <a href="https://young-bayou-47854.herokuapp.com/" class="text-white">Live Website</a>.</p></h4>
             </div>
         </div>
+        <div class="row">
+            <div class="col-md-12" >
+                <h1 className="text-center text-danger">Burger Logger</h1>
+                <img src="../assets/Screenshot 2021-03-22 225234.png" class="shadow-lg rounded w-100 m-5" alt="Budget Tracker Project"/>
+            </div>
+            <div class="col-md-12 text-center text-white shadow-lg rounded m-5">
+                <h4><p>This project "Burger Logger" is the Unit 13 Full Stack HW and is and application that the user can see printed burgers from a MySQL database add a burger to the database and DEVOUR a burger from the database. Here is the  <a href="https://github.com/HarrisonNoblett/Unit-13-Burger-Logger" class="text-primary">Github Repository</a> and the <a href="https://enigmatic-everglades-63477.herokuapp.com/" class="text-primary">Live Website</a>.</p></h4>
+            </div>
+        </div>
       </div>
     )
 }
