@@ -24,7 +24,7 @@ function Project() {
         <div class="row">
             <div class="col-md-12" >
                 <h1 className="text-center text-danger">Password Generator</h1>
-                <img src="../assets/Screenshot 2021-02-13 211117.png" class="shadow-lg rounded w-100 m-5" alt="BETTER-WEATHER Project"/>
+                <img src="../assets/Screenshot 2021-02-13 211117.png" class="shadow-lg rounded w-100 m-5" alt="Get Fit Project"/>
             </div>
             <div class="col-md-12 text-center text-white shadow-lg rounded m-5">
                 <h4><p>This project is my first full stack CRUD appplication. Creating, reading, updating, and deleting this project allows the user to set a workout goal, save that goal to a MySQL database and delete that goal if they choose so. Here is the  <a href="https://github.com/HarrisonNoblett/Get-Fit" class="text-primary">Github Repository</a> and the <a href="https://git-fit-utsa.herokuapp.com/" class="text-primary">Live Website</a>.</p></h4>
@@ -32,11 +32,20 @@ function Project() {
         </div>
         <div class="row">
             <div class="col-md-12" >
-                <h1 className="text-center text-danger">Password Generator</h1>
-                <img src="../assets/Screenshot 2021-02-13 211117.png" class="shadow-lg rounded w-100 m-5" alt="BETTER-WEATHER Project"/>
+                <h1 className="text-center text-danger">Employee Directory</h1>
+                <img src="../assets/Screenshot 2021-03-16 222543.png" class="shadow-lg rounded w-100 m-5" alt="Employee Directory Project"/>
             </div>
             <div class="col-md-12 text-center shadow-lg rounded m-5">
-                <h4><p>This project is my first full stack CRUD appplication. Creating, reading, updating, and deleting this project allows the user to set a workout goal, save that goal to a MySQL database and delete that goal if they choose so. Here is the  <a href="https://github.com/HarrisonNoblett/Get-Fit" class="text-white">Github Repository</a> and the <a href="https://git-fit-utsa.herokuapp.com/" class="text-white">Live Website</a>.</p></h4>
+                <h4><p>This project was one of my first react works. It pulls from a random employee API and brings in 100 random employees that the user can filter through. Here is the  <a href="https://github.com/HarrisonNoblett/Employee-Directory" class="text-white">Github Repository</a> and the <a href="https://harrisonnoblett.github.io/Employee-Directory/" class="text-white">Live Website</a>.</p></h4>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12" >
+                <h1 className="text-center text-danger">Budget-Tracker</h1>
+                <img src="../assets/Screenshot 2021-03-09 182738.png" class="shadow-lg rounded w-100 m-5" alt="Budget Tracker Project"/>
+            </div>
+            <div class="col-md-12 text-center shadow-lg rounded m-5">
+                <h4><p>This project brings in a hard-coded Budget for the user to add purchases or payments and it will take from the pre-made budget. This application also works offline for any offline purchases or budget changes. Here is the  <a href="https://github.com/HarrisonNoblett/Budget-Tracker" class="text-white">Github Repository</a> and the <a href="https://young-bayou-47854.herokuapp.com/" class="text-white">Live Website</a>.</p></h4>
             </div>
         </div>
       </div>
