@@ -6,11 +6,9 @@ import Footer from "../components/Footer";
 function Projects() {
     return (
         <div>
-            <Header />
-                <div className="container">
-                    <Project />
-                </div>
-            <Footer />
+            <div className="container">
+                <Project />
+            </div>
         </div>
     )
 }
