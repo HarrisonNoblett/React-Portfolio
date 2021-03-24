@@ -9,12 +9,7 @@
   ## Table of Contents: 
   * [Title](#Title)
   * [Discription](#Description)
-  * [Installation](#Installation)
-  * [Usage](#Usage)
   * [License](#License)
-  * [Contributing](#Contributing)
-  * [Tests](#Tests)
-  * [Questions](#Questions)
   * [Github](#Github)
   * [Email](#Email)
 
