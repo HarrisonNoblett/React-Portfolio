@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/HarrisonNoblett/React-Portfolio/static/css/main.9a1a2aa6.chunk.css",
+    "main.js": "/HarrisonNoblett/React-Portfolio/static/js/main.9a5ea92e.chunk.js",
+    "main.js.map": "/HarrisonNoblett/React-Portfolio/static/js/main.9a5ea92e.chunk.js.map",
+    "runtime-main.js": "/HarrisonNoblett/React-Portfolio/static/js/runtime-main.9f794795.js",
+    "runtime-main.js.map": "/HarrisonNoblett/React-Portfolio/static/js/runtime-main.9f794795.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/HarrisonNoblett/React-Portfolio/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c104b749.chunk.js": "/HarrisonNoblett/React-Portfolio/static/js/2.c104b749.chunk.js",
+    "static/js/2.c104b749.chunk.js.map": "/HarrisonNoblett/React-Portfolio/static/js/2.c104b749.chunk.js.map",
+    "index.html": "/HarrisonNoblett/React-Portfolio/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/HarrisonNoblett/React-Portfolio/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.9a1a2aa6.chunk.css.map": "/HarrisonNoblett/React-Portfolio/static/css/main.9a1a2aa6.chunk.css.map",
+    "static/js/2.c104b749.chunk.js.LICENSE.txt": "/HarrisonNoblett/React-Portfolio/static/js/2.c104b749.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f794795.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c104b749.chunk.js",
+    "static/css/main.9a1a2aa6.chunk.css",
+    "static/js/main.9a5ea92e.chunk.js"
+  ]
+}
